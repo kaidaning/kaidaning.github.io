@@ -53,3 +53,18 @@
 - Regression, deep learning, and large language models  
 - Programming: R, SQL, Perl, Python, Linux (cloud & distributed)
 
+## Selected Publications
+
+1. Ning K., Cannon P.B., *et al.* (2024). *Brain Informatics.*  
+2. Ning K., Duffy B., Matloff W., *et al.* (2021). *Neurobiology of Aging.*  
+3. Ning K., Zhao L., *et al.* (2020). *Scientific Reports.*  
+4. Ning K., Zhao L., *et al.* (2020). *Scientific Reports.*  
+5. Matloff W., Zhao L., Ning K., *et al.* (2019). *Alcohol.*  
+6. Ning K., Chen B., *et al.* (2018). *Neurobiology of Aging.*  
+7. Zhao L., Matloff W., Ning K., *et al.* (2018). *Cerebral Cortex.*  
+8. Ning K., Gettler K., *et al.* (2015). *Human Molecular Genetics.*  
+9. Hedl M., Lahiri A., Ning K., *et al.* (2014). *Immunity.*  
+10. Gathungu G., Kim M-O., Ning K., *et al.* (2013). *Inflammatory Bowel Diseases.*  
+11. Jostins L., Ripke S., Ning K., *et al.* (2012). *Nature.*  
+12. Zhang X., Robertson G., Ning K., *et al.* (2009). *Biometrics.*
+
