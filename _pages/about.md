@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Kaida Ning is a researcher specializing in computational biology and biomedical data science. She holds a Ph.D. in Computational Biology from the University of Southern California, where she studied brain aging using multi-modal data including genetic, clinical, environmental, and brain imaging data. She obtained her. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Kaida has led and contributed to research projects across leading institutions and companies, including Yale University, Mount Sinai Hospital, British Columbia Cancer Agency, and Holmusk. Across his career, Kaida has consistently applied data-driven approaches to generate novel biomedical insights and inform precision medicine.
 
 A data-driven personal website Kaida Ning
 ======
