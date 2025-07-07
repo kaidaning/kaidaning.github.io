@@ -6,7 +6,7 @@ date: 2024-01-01
 venue: "Brain Informatics"
 excerpt: ""
 authors: ""
-paperurl: ""
-citation: ""
+paperurl: "https://doi.org/10.1038/nature11582"
+citation: "Jostins, L., Ripke, S., Weersma, R. et al. Host–microbe interactions have shaped the genetic architecture of inflammatory bowel disease. Nature 491, 119–124 (2012). https://doi.org/10.1038/nature11582"
 category: journal
 ---
